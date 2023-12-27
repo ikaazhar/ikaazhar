@@ -9,15 +9,13 @@ I am currently furthering my studies in Degree of Science Computer (Data Enginee
 *   🌍  I'm based in Skudai, Johor, Malaysia
 *   ✉️  You can contact me at [nurulikasyafiny@graduate.utm.my](mailto:nurulikasyafiny@graduate.utm.my)
 *   🧠  I'm learning C++
-*   ⚡  My hobby is drawing and I had develop some good skill from over the years of drawing.### Skills 
+*   ⚡  My hobby is drawing and I had develop some good skill from over the years of drawing.
+*   ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                     </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
+                     ### Socials
+            <p align="left">
                       <a href="https://www.github.com/ikaazhar" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
