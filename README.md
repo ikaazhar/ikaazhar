@@ -7,7 +7,7 @@ I am a Data Engineering student
 I am currently furthering my studies in Degree of Science Computer (Data Engineering) at University Teknologi Malaysia. I had been learning how to code since I was in high school. Back when I was in High School, I learned using Phython and had made several projects from it. When I further my studies in Foundation, I learned how to use C programming and quite skill at using it. Now, I am learning C++ and looking forward to master this programming language to its maximum capabilities.
 
 * 🌍  I'm based in Skudai, Johor, Malaysia
-* 🖥️  See my portfolio at [https://ikaazhar.github.io/](http://https://ikaazhar.github.io/)
+* 🖥️  See my portfolio at [https://ikaazhar.github.io/](https://ikaazhar.github.io/)
 * ✉️  You can contact me at [nurulikasyafiny@graduate.utm.my](mailto:nurulikasyafiny@graduate.utm.my)
 * 🧠  I'm learning C++
 * ⚡  My hobby is drawing and I had develop some good skill from over the years of drawing.
