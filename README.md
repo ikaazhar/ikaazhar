@@ -16,6 +16,7 @@ Some of the competition I had participated back in high school:
 * The Hour of Code 2017 & 2018
 * Hackathon 2017
 * Tapir Hero 2019
+* Olympiads Kuiz Kimia Kebangsaan Tingkatan 5
 
 Award I had received through out my study journey:
 * 11A PT3 Student
