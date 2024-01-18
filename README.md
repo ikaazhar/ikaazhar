@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Data Engineering student
 -------------------------------
 
-I am currently furthering my studies in Degree of Science Computer (Data Engineering) at University Teknologi Malaysia. I had been learning how to code since I was in high school. Back when I was in High School, I learned using Phython and had made several projects from it. When I further my studies in Foundation, I learned how to use C programming and quite skill at using it. Now, I am learning C++ and looking forward to master this programming language to its maximum capabilities.
+I am currently furthering my studies in Degree of Science Computer (Data Engineering) at University Teknologi Malaysia. I had been learning how to code since I was in high school. I was a student in Sekolah Menengah Kebangsaan Agama Sharifah Rodziah, Melaka. Back when I was in High School, I learned using Phython and had made several projects from it. When I further my studies in Foundation which at UiTM Dengkil, I learned how to use C programming and capable creating some programmes with this language. Now, I am learning C++ at UTM, Skudai and looking forward to master this programming language to its maximum capabilities. I am also looking forward to further my knowledge in computer science world and discover more programming language along the way.
+
+Some of the competition I had participated back in high school:
+* The Hour of Code 2017 & 2018
+* Hackathon 2017
+* Tapir Hero 2019
+
+Award I had received through out my study journey:
+* 9A SPM Student
+* Top 20 Mid-term Semester 1 in Foundation
+* 4 Flat Student in Semester 1 & 2 in Foundation
 
 * 🌍  I'm based in Skudai, Johor, Malaysia
 * 🖥️  See my portfolio at [https://ikaazhar.github.io/](https://ikaazhar.github.io/)
