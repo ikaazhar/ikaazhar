@@ -18,6 +18,7 @@ Some of the competition I had participated back in high school:
 * Tapir Hero 2019
 
 Award I had received through out my study journey:
+* 11A PT3 Student
 * 9A SPM Student
 * Top 20 Mid-term Semester 1 in Foundation
 * 4 Flat Student in Semester 1 & 2 in Foundation
