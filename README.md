@@ -9,6 +9,7 @@ I'm a final-year student in **Bachelor of Computer Science (Data Engineering)** 
 Over three years of study, I've worked across the full data engineering stack — from designing relational and NoSQL databases to deploying automated cloud pipelines on Microsoft Azure. I also enjoy building practical software systems and have experience in mobile/web development using Flutter and Supabase.
 
 - 🌍 Based in Skudai, Johor, Malaysia
+- ✉️ See my resume at [https://canva.link/keyyx1bafjmt2mi](https://canva.link/keyyx1bafjmt2mi)
 - 🖥️ See my full project portfolio at [ikaazhar.github.io/e-portfolio](https://ikaazhar.github.io/e-portfolio/)
 - ✉️ Reach me at [ikasyafinyazhar@gmail.com](mailto:ikasyafinyazhar@gmail.com)
 - 🔭 Currently diving deeper into cloud data engineering and AI-assisted pipelines
